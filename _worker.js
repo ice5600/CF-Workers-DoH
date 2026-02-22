@@ -1681,4 +1681,5 @@ async function nginx() {
 	</html>
 	`
   return text;
+
 }
